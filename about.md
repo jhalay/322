@@ -11,5 +11,4 @@ background: '/img/field.png'
 ## Holly Brien
 ## Adrian Chu
 ## Jake Halay
-![Jake](/img/posts/headshots/5edit.jpg)
 ## Kash Khandelwal
