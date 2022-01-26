@@ -2,7 +2,7 @@ title:              Team 14
 email:              15jmh9@queensu.ca
 description:        CISC 322/326 - Winter 2022
 author:             Jake Halay
-baseurl:            ""
+baseurl:            "/cisc322"
 url:                "https://jhalay.github.io"
 
 # Social Profiles
