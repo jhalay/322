@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Team Artemis
-description: Meet the team members.
+title: About Us
+description: Meet the members of Team Artemis.
 background: '/img/field.png'
 ---
 
